@@ -1,0 +1,11 @@
+.dung{
+    text-align: center;
+  }
+  .dung2{
+    width: 1500px;
+    height: 100px;
+    border: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

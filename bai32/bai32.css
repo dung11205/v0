@@ -1,0 +1,27 @@
+.listitem{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-size: 22px;
+}
+.item{
+    width: 220px;
+    height: 310px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.iteming{
+    width: 160px;
+    height: 170px;
+    margin: 5px 25px 5px 25px;
+}
+.price{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px 20px 0px 20px;
+    background: #FFE3E3;
+    border-radius: 29px;
+    color: red;
+}

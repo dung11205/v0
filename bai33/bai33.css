@@ -1,0 +1,21 @@
+.dung{
+    width: 220px;
+    height: 310px;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+}
+.dung0{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+}
+.dung1{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.dung2{
+    margin-left: 15px;
+    color: #D8D8D8;
+}

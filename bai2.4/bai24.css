@@ -1,0 +1,14 @@
+.dung{
+    width: 1000px;
+    height: 600px;
+    border: 1px solid black;
+}
+.dung1{
+    width: 170px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: ce;
+}
